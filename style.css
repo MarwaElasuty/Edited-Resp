@@ -970,7 +970,7 @@ img[alt="side-logo1"] {
     }
 
     #statistics-right h1 {
-        padding-right: 78px;
+        padding-right: 157px;
     }
 
 }
@@ -1425,6 +1425,13 @@ input::placeholder {
     color: white;
 }
 
+img[alt="credit"]{
+    padding-left: 10px;
+}
+
+#clubs{
+    padding-left: 10px;
+}
 
 /* footer media query */
 
