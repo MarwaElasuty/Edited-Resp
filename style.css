@@ -63,7 +63,7 @@ img[alt="humberger-menu"] {
 #temp-btns{
     position: absolute;
     right: 138px;
-    bottom: 0px;
+    top: 0px;
 }
 
 .nav-links-btns button {
@@ -1396,6 +1396,10 @@ img[alt="tesla"] {
     margin-bottom: 10px;
 }
 
+#stay-up-footer{
+    padding-top: 35px;
+}
+
 #icons {
     display: flex;
     flex-wrap: wrap;
@@ -1436,6 +1440,8 @@ input::placeholder {
 
     .footer>div {
         padding-left: 13px;
+        padding-bottom: 7px;
+        width: 33%;
     }
 }
 
