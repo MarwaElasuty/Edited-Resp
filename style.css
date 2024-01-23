@@ -1397,7 +1397,7 @@ img[alt="tesla"] {
 }
 
 #stay-up-footer{
-    padding-top: 35px;
+    padding-top: 25px;
 }
 
 #icons {
@@ -1435,7 +1435,7 @@ input::placeholder {
 @media screen and (max-width: 992px) and (min-width:786px) {
     .footer {
         width: 100%;
-        font-size: 11px;
+        font-size: 14px;
     }
 
     .footer>div {
