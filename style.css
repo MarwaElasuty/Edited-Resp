@@ -13,7 +13,7 @@ nav {
     justify-content: space-between;
     position: relative;
     /* padding-right: 10px; */
-    padding-top: 25px;
+    padding-top: 20px;
     font-weight: 500;
 
 }
@@ -38,7 +38,8 @@ a {
 
 #nav-links {
     margin: auto;
-    padding-bottom: 15px;
+
+    padding-right: 150px;
 }
 
 img[alt="humberger-menu"] {
@@ -111,7 +112,7 @@ img[alt="humberger-menu"] {
     }
 
     #brand-title-div{
-        padding-right: 700px;
+        
     }
 
     #background-text>h1{
@@ -162,7 +163,7 @@ img[alt="humberger-menu"] {
     }
 
     .menu-div {
-        padding-left: 300px;
+        padding-left: 313px;
     }
     #brand-title-div{
         padding-right: 700px;
