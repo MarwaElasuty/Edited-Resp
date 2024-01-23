@@ -1435,7 +1435,7 @@ input::placeholder {
 @media screen and (max-width: 992px) and (min-width:786px) {
     .footer {
         width: 100%;
-        font-size: 8px;
+        font-size: 11px;
     }
 
     .footer>div {
@@ -1460,7 +1460,6 @@ input::placeholder {
         width: 100%;
         padding-left: 2px;
         padding-right: 2px;
-
     }
 
     .footer h3 {
