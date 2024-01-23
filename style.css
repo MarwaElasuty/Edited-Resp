@@ -110,10 +110,12 @@ img[alt="humberger-menu"] {
         display: none;
     }
 
-    .menu-div {}
-
     #brand-title-div{
         padding-right: 700px;
+    }
+
+    #background-text>h1{
+        font-size: 45px;
     }
 }
 
@@ -168,6 +170,10 @@ img[alt="humberger-menu"] {
     
     #temp-btns{
 
+    }
+
+    #background-text>h1{
+        font-size: 40px;
     }
 }
 
@@ -318,10 +324,10 @@ img[alt="humberger-menu"] {
     text-align: center;
     width: 60%;
 }
-
+/* 
 #background-text>h1 {
     font-size: 30px;
-}
+} */
 
 #background-text>span {
     color: #009379;
