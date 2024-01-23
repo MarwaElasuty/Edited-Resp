@@ -1407,6 +1407,9 @@ img[alt="tesla"] {
     margin-top: 15px;
 }
 
+#icons > img{
+    width: 47px;
+}
 
 .footer input {
     border-style: none;
@@ -1435,7 +1438,7 @@ input::placeholder {
 @media screen and (max-width: 992px) and (min-width:786px) {
     .footer {
         width: 100%;
-        font-size: 14px;
+        font-size: 15px;
     }
 
     .footer>div {
